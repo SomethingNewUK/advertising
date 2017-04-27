@@ -1,0 +1,22 @@
+{
+  "updated_at": "2017-04-25T19:21:00+00:00",
+  "platform": "facebook",
+  "start_date": null,
+  "end_date": "2017-05-04T12:00:00+01:00",
+  "budget": {
+    "currency": "GBP",
+    "amount": 79
+  },
+  "content": {
+    "image_path": "01-facebook.png"
+  },
+  "targeting": [
+    {
+      "type": "location",
+      "id": "mapit:58848",
+      "url": "https://mapit.mysociety.org/area/58848",
+      "name": "Lichfield"
+    }
+  ],
+  "reach": 565
+}

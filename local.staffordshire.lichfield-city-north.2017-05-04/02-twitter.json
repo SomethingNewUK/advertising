@@ -1,0 +1,21 @@
+{
+  "updated_at": "2017-04-25T19:21:00+00:00",
+  "platform": "twitter",
+  "start_date": null,
+  "end_date": null,
+  "budget": {
+    "currency": "GBP",
+    "amount": 5
+  },
+  "content": {
+    "image_path": "02-twitter.png"
+  },
+  "targeting": [
+    {
+      "type": "location",
+      "id": "postcode:WS13",
+      "name": "WS13"
+    }
+  ],
+  "reach": null
+}
